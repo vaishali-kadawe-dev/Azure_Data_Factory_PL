@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ADFvkeve"
+		},
+		"LS_AzureDataLakeStorage1_VK_accountKey": {
+			"value": ""
+		},
+		"LS_AzureSqlDatabase_VK_password": {
+			"value": ""
+		},
+		"LS_AzureDataLakeStorage1_VK_properties_typeProperties_url": {
+			"value": "https://adlsgen2vk300526.dfs.core.windows.net/"
+		},
+		"LS_AzureSqlDatabase_VK_properties_typeProperties_server": {
+			"value": "azuresqlserver300526.database.windows.net"
+		},
+		"LS_AzureSqlDatabase_VK_properties_typeProperties_database": {
+			"value": "adventurework_part2"
+		},
+		"LS_AzureSqlDatabase_VK_properties_typeProperties_userName": {
+			"value": "vkadawe"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
