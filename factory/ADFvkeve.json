@@ -1,0 +1,15 @@
+{
+	"name": "ADFvkeve",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f875375e-bf7c-4a53-9262-908a40626735",
+		"tenantId": "a67730ef-45b3-4c5f-9e06-3a20803fff85"
+	}
+}
