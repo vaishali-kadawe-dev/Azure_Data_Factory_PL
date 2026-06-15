@@ -22,6 +22,9 @@
 		},
 		"LS_AzureSqlDatabase_VK_properties_typeProperties_userName": {
 			"value": "vkadawe"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://AzureKeyVaultVK.vault.azure.net/"
 		}
 	}
 }
